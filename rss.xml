@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MarriottGrapevine]]></title>
         <description><![CDATA[MarriottGrapevine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marriottgrapevine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 17:29:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 17:30:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marriottgrapevine/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f54f286-4794-4beb-bd6d-d95e18afe998.jpg">]]></description>
+            <link>https://thegrid.ai/marriottgrapevine/93dd2dcd-010d-4f4e-bd6d-b23c80f17c20/index.html</link>
+            <guid isPermaLink="false">93dd2dcd-010d-4f4e-bd6d-b23c80f17c20</guid>
+            <pubDate>Fri, 22 Jan 2016 17:30:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd444713-da7f-4a3f-8747-a78afcc1510b.jpg">]]></description>
-            <link>undefined24c74da6-5015-4da8-8d9e-b06c900339b5/index.html</link>
+            <link>https://thegrid.ai/marriottgrapevine/24c74da6-5015-4da8-8d9e-b06c900339b5/index.html</link>
             <guid isPermaLink="false">24c74da6-5015-4da8-8d9e-b06c900339b5</guid>
             <pubDate>Fri, 22 Jan 2016 17:24:44 GMT</pubDate>
         </item>
